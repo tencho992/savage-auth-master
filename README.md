@@ -1,5 +1,4 @@
-## Installation
-
+## Log in to your 21 Savage Fan Application where you can send Sir Savage unlimited messages! Have your friends Like your message so Sir Savage notices you!
 1. Clone repo
 2. run `npm install`
 
